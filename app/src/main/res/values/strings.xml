@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DLNAService</string>
+    <string name="player_bt_return">return</string>
+    <string name="player_exit">press again to exit player</string>
+    <string name="setting">setting</string>
+    <string name="create">Create</string>
+    <string name="destroy">Destroy</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="exit">Exit</string>
+    <string name="airplay">AirPlay</string>
+    <string name="dlna">DLNA</string>
+    <string name="WiFiDisplay">WiFiDisplay</string>
+    <string name="airplay_service_name">Service Name</string>
+    <string name="default_duration">00:00</string>
+
+    <string name="WiFiTest">WiFiTest</string>
+    <string name="StateTest">StateTest</string>
+    <string name="PeerTest">PeerTest</string>
+    <string name="DevTest">DevTest</string>
+    <string name="ConnectText">ConnectText</string>
+
+
+    <string name="skip_begin">已经为您跳过片头</string>
+    <string name="solidus"> / </string>
+
+    <string name="p2p_name">WifiDisplaySink</string>
+    <string name="err_no_ip">No Valid Networks. Try Connect a Network.</string>
+    <string name="connecting_textview">Conecting ...</string>
+    <string name="Init">Init</string>
+    <string name="Start">Start</string>
+    <string name="Release">Release</string>
+    <string name="Exit">Exit</string>
+    <string name="ChangeOrientation">ChangeOrientation</string>
+    <string name="FullScreen">FullScreen</string>
+</resources>

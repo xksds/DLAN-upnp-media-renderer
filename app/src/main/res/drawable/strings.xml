@@ -1,0 +1,18 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string android:name="device_local">NIODLNA Media Server</string>
+    <string android:name="player_bt_return">return</string>
+    <string android:name="player_exit">press again to exit player</string>
+    <string android:name="setting">setting</string>
+    <string android:name="create">Create</string>
+    <string android:name="destroy">Destroy</string>
+    <string android:name="start">Start</string>
+    <string android:name="stop">Stop</string>
+    <string android:name="exit">Exit</string>
+    <string android:name="dlna">DLNA</string>
+    <string android:name="default_duration">00:00</string>
+
+
+    <string android:name="skip_begin">已经为您跳过片头</string>
+    <string android:name="solidus"> / </string>
+
+</resources>
